@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+
+authors:
+- family-names: Fei
+  given-names: Jinyu
+  affiliation: "Department of Chemistry, Pennsylvania State University"
+  orcid: https://orcid.org/0000-0003-4013-8322
+
+- family-names: Zhou
+  given-names: Ruobo
+  affiliation: "Department of Chemistry, Pennsylvania State University"
+              "Department of Biomedical Engineering, The Pennsylvania State University"
+               "Department of Biochemistry and Molecular Biology, The Pennsylvania State University"
+              "The Huck Institutes of Life Sciences, The Pennsylvania State University"
+  orcid:https://orcid.org/0000-0001-8628-0282
+
+title:thezhoulab/Fei-et-al.-Science-Advances-2025: v1.0
+version: v1.0
+date-released: 2025-11-20
